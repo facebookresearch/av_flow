@@ -22,7 +22,7 @@ Put audio2photoreal in the same parent directory with this repo, e.g.:
 ## Dataset
 We use 2 datasets in this work.
 
-Download 50h dataset from:
+Download 50h dataset from [https://www.meta.com/emerging-tech/codec-avatars/4d-talking-avatar](https://www.meta.com/emerging-tech/codec-avatars/4d-talking-avatar)
 
 ```
     |-- /path/to/dataset/50h_dataset/
@@ -204,6 +204,14 @@ The code and dataset are released under [CC-NC 4.0 International license](./LICE
 # Citation
 If you find our work useful, please cite our paper:
 ```
+@InProceedings{Chatziagapi_2025_ICCV,
+    author    = {Chatziagapi, Aggelina and Morency, Louis-Philippe and Gong, Hongyu and Zollh\"ofer, Michael and Samaras, Dimitris and Richard, Alexander},
+    title     = {AV-Flow: Transforming Text to Audio-Visual Human-like Interactions},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {14270-14282}
+}
 ```
 
 
