@@ -40,7 +40,7 @@ Audio2Photoreal:
 
 Follow instructions from [Audio2Photoreal](https://github.com/facebookresearch/audio2photoreal/) to download their dataset.
 
-We release the ASR tokens and head VAE that we use in our work at:
+We release the ASR tokens and head VAE that we use in our work.
 
 Place them under each corresponding subject:
 ```
@@ -61,7 +61,7 @@ Place them under each corresponding subject:
 
 
 ## Pre-trained Model
-We release a pre-trained AV-Flow model for the 50h dataset. Download the pre-trained model from:
+We release a pre-trained AV-Flow model for the 50h dataset. It is included in the downloaded dataset as `av_flow_ckpt_50h.pt`.
 
 
 ## Renderer
